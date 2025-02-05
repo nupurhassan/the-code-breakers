@@ -11,7 +11,7 @@ Make sure you refer to the [Kickoff Document](#) for additional details and guid
 ### Project Information:
 - **Topic Chosen**: Team Exercise
 - **Sprint Number**: 1
-- **Scrum Master**: Ehtan Freeman
+- **Scrum Master**: Ethan Freeman
 - **Git Master**: Logan Ford
 
 ### Sprint Planning (For Sprint 1-3):
