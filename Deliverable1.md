@@ -9,7 +9,7 @@ Make sure you refer to the [Kickoff Document](#) for additional details and guid
 ## 1: Basic Information (To be completed before you start Sprint)
 
 ### Project Information:
-- **Topic Chosen**: Team Exercise
+- **Topic Chosen**: Teacher course planning tool
 - **Sprint Number**: 1
 - **Scrum Master**: Ethan Freeman
 - **Git Master**: Logan Ford
